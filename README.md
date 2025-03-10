@@ -17,6 +17,7 @@ End the program
 Developed by:
 ABDULRAWOOF
 RegisterNumber:212224230003
+
 import numpy as np
 a = np.array([[1,-3],[3,1]])
 b = np.array([0,10])
